@@ -1,6 +1,6 @@
 # 🎨 Texture Arts Generator (Streamlit App)
 
-A simple generative art app built using Python, NumPy, Matplotlib, and [Streamlit](https://streamlit.io/).  
+A simple generative art app built using `Python`, `NumPy`, `Matplotlib`, and `Streamlit`.  
 It visualizes textures based on creative math functions, noise, color gradients, and simple geometry — no GANs, no deep learning.
 
 * Streamlit app link: [Click here](https://texture-art-generator-mayukhchatterjee7029.streamlit.app/)
