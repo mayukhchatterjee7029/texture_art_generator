@@ -2,8 +2,6 @@
 
 ## Imports ####################################
 
-from turtle import bgcolor
-from webbrowser import BackgroundBrowser
 import streamlit as st  ## importing streamlit
 
 import numpy as np  # importing libraries
