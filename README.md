@@ -37,7 +37,7 @@ It visualizes textures based on creative math functions, noise, color gradients,
 ```bash
 pip install numpy matplotlib scipy streamlit
 ```
-run the app by:
+ run the app by:
 ```bash
 streamlit run app_random_texture.py
 ```
