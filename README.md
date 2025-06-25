@@ -24,11 +24,11 @@ It visualizes textures based on creative math functions, noise, color gradients,
 ---
 ## Texture Arts
 
-    Perlin-like Blur, Sinusoidal Gradient, 
-    RGB Pattern Blend, Mandelbrot Fractal, 
-    Soft Paint Strokes, Sharp Digital Blocks,
-    Gradient Vibes, Retro Pixel Art, Uzumaki, 
-    Starfield Glow, Ripples on Water
+Perlin-like Blur, Sinusoidal Gradient, 
+RGB Pattern Blend, Mandelbrot Fractal, 
+Soft Paint Strokes, Sharp Digital Blocks,
+Gradient Vibes, Retro Pixel Art, Uzumaki, 
+Starfield Glow, Ripples on Water
 
 
 ---
